@@ -1,0 +1,9 @@
+d:\update\update\obj\Debug\update.csprojResolveAssemblyReference.cache
+d:\update\update\obj\Debug\update.Properties.Resources.resources
+d:\update\update\obj\Debug\update.csproj.GenerateResource.Cache
+d:\update\update\obj\Debug\update.csproj.CoreCompileInputs.cache
+d:\update\update\bin\Debug\update.exe.config
+d:\update\update\bin\Debug\update.exe
+d:\update\update\bin\Debug\update.pdb
+d:\update\update\obj\Debug\update.exe
+d:\update\update\obj\Debug\update.pdb
